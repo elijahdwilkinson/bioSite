@@ -1,0 +1,95 @@
+h1{
+    text-align: center;
+}
+
+
+p{
+
+    font-size: 1.25em;
+    font-weight: 150;
+}
+
+
+div {
+    background-color: white;
+}
+
+body{
+    background-color: aqua;
+}
+
+.container{
+    width: 60%;
+    padding: 10px;
+    height: 100%;
+    margin: auto;
+    align-content: center;
+    text-align: center;
+
+}
+
+.header-footer{
+    height: 100%;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}
+
+
+.row{
+    padding-top: 15px;
+    height: 300px;
+    text-align: left;
+    width: 700px;
+    margin: auto;
+}
+
+.about {
+    padding-top: 15px;
+    height:100%;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+}
+
+.column1{
+    height: 500px;
+    width: 30%;
+    margin: 2px;
+    text-align: right;
+    float: left;
+    align-items: right;
+
+}
+
+.column2{
+    height: 500px;
+    width: 30%;
+    margin: 2px;
+
+    text-align: left;
+}
+
+
+
+.left{
+    height: 300px; 
+    width: 300px;
+    float: left;
+    margin: 5px;
+    padding-right: 15px;
+}
+
+.right{
+    height: 300px; 
+    width: 300px;
+    float: right;
+    margin: 5px;
+    padding-left: 10px;
+}
+
+.portrait {
+    height: 550px;
+    width: 550px;
+    
+}
